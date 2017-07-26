@@ -1,0 +1,12 @@
+{
+  "pages": [
+    
+    "pages/msg",
+    "pages/msg_success",
+    "pages/msg_fail"
+  ],
+  "window": {
+    "backgroundTextStyle": "light",
+    "navigationBarTitleText": "测试"
+  }
+}

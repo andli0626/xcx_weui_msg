@@ -1,0 +1,8 @@
+<template name="foot">
+  <navigator class="page-foot" url="/pages/index/index" open-type="redirect" hover-class="none">
+    <view class="weui-footer weui-footer_fixed-bottom">
+      <view class="weui-footer__text">江苏国泰新点软件有限公司</view>
+      <view class="weui-footer__text">Copyright © 2017</view>
+    </view>
+  </navigator>
+</template>
